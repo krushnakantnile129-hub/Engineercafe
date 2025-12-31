@@ -1,7 +1,4 @@
-  h1 {
-        color:darkblue;
-        
-    }
+
 body {
 background-image: url('coffee shop background image.jfif');
 background-repeat: no-repeat;
@@ -11,5 +8,6 @@ nav a:hover{
 color: red;
 font-size:25px;
 }
+
 
 
